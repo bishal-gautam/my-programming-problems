@@ -84,7 +84,7 @@ Hope this will help for someone looking for problem solving!
 
 
 ### TO DO:
-* to complete the list of all problems.
-I am also planning to solve these problems again and add solutions in different language categories (also editorial, if possible) to this repo.
+* To complete the list of all problems.
+* I am also planning to solve these problems again and add solutions in different language categories (also editorial, if possible) to this repo.
 ##### If someone want to contribute, feel free to do this !!
 
