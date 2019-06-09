@@ -1,22 +1,7 @@
 # my-programming-problems
-This contains a list links for different programming problems created by me in different programming platforms.
+Here I am creating a list of links for different programming problems created by me in different programming platforms along with their category and difficulty level for solving.
 
-## Hackerearth platform:
-
-| Problem |  Category | Difficulty | Comment |
-|---|---|---|---|
-|[Powerful Pair in Tree](http://bit.ly/2BTf3rq) | Data-Structure | Hard | |
-|[Picu Bank](http://bit.ly/2wgwoW4) | Binary Search | Medium | |
-|[Plus Plus]( http://bit.ly/2Jur3m5 )| Implementation | Easy | |
-|[Almost Same String]( http://bit.ly/2D1ri0g )| Greedy Algorithm | Medium | |
-|[One swap to palindrome](http://bit.ly/2kJrz1j) | Greedy Algorithm | Medium | |
-|[Old and Cold Numbers](http://bit.ly/2N2ehZz) | Math | Easy | |
-|Rotating and Matching | KMP algorithm | Hard |  |
-|Special numbers | Number Theory | Medium | |
-|Goto Prime| Number Theory | Medium | |
-|Rotate and Speak Game | Math | Easy | |
-|Digital Numbers| Dynamic programming | Medium | |
-|String generation | Dynamic programming | Medium | |
+Hope this will help for someone looking for problem solving!
 
 
 ## Hackerrank platform:
@@ -30,10 +15,31 @@ This contains a list links for different programming problems created by me in d
 |At most two swaps | Data-Structure | Medium | |
 
 
+
+## Hackerearth platform:
+
+| Problem |  Category | Difficulty |
+|---|---|---|
+|[Powerful Pair in Tree](http://bit.ly/2BTf3rq) | Data-Structure | Hard |
+|[Picu Bank](http://bit.ly/2wgwoW4) | Binary Search | Medium |
+|[Plus Plus]( http://bit.ly/2Jur3m5 )| Implementation | Easy |
+|[Almost Same String]( http://bit.ly/2D1ri0g )| Greedy Algorithm | Medium |
+|[One swap to palindrome](http://bit.ly/2kJrz1j) | Greedy Algorithm | Medium |
+|[Old and Cold Numbers](http://bit.ly/2N2ehZz) | Math | Easy |
+|Rotating and Matching | KMP algorithm | Hard |
+|Special numbers | Number Theory | Medium |
+|Goto Prime| Number Theory | Medium |
+|Rotate and Speak Game | Math | Easy |
+|Digital Numbers| Dynamic programming | Medium |
+|String generation | Dynamic programming | Medium |
+
+
+
+
 ## Dev Skill platform:
 
 | Problem |  Category | Difficulty | 
-|---|---|---|---|
+|---|---|---|
 |[Escape from Grid-land](https://www.devskill.com/CodingProblems/ViewProblem/245) | Meet in the middle | Hard |
 |[Big Binary Game](https://www.devskill.com/CodingProblems/ViewProblem/283) | Data-structrure | Hard |
 |[Sanvi and chocolates-2](https://www.devskill.com/CodingProblems/ViewProblem/315) | Data-structure | Hard |
@@ -59,3 +65,26 @@ This contains a list links for different programming problems created by me in d
 |[Smallest Palindromic Substring](https://www.devskill.com/CodingProblems/ViewProblem/375) | String | Easy |
 |[Power Of 5](https://www.devskill.com/CodingProblems/ViewProblem/385) | Math | Easy |
 |[Sanvi and Magical String](https://www.devskill.com/CodingProblems/ViewProblem/410) | String | Easy |
+
+
+
+## SPOJ platform:
+
+| Problem |  Category | Difficulty |
+|---|---|---|
+|[Shoot and kill](https://www.spoj.com/problems/BGSHOOT/) | Data-Structure | Medium |
+|[Sanvi Hates Palindrome](https://www.spoj.com/problems/GOC11B/) | Math | Medium |
+|[Counting WOW-Substrings](https://www.spoj.com/problems/WOWSUBSTR/) | String | Medium |
+|[Counting WOW-Substrings2](https://www.spoj.com/problems/WOWSUBSTR/) | Math | Medium |
+|[Alphabetic Rope](https://www.spoj.com/problems/AROPE/) | String | Easy |
+|[Alphabetic Rope 2](https://www.spoj.com/problems/AROPE2/) | String | Medium |
+|[Alphabetic Rope 3](https://www.spoj.com/problems/AROPE3/) | String | Medium |
+
+
+
+
+### TO DO:
+* to complete the list of all problems.
+I am also planning to solve these problems again and add solutions in different language categories (also editorial, if possible) to this repo.
+##### If someone want to contribute, feel free to do this !!
+
