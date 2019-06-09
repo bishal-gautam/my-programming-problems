@@ -6,13 +6,13 @@ Hope this will help for someone looking for problem solving!
 
 ## Hackerrank platform:
 
-| Problem |  Category | Difficulty | Comment |
-|---|---|---|---|
-|[Magic value](http://bit.ly/2FdhqcE) | Data-Structure | Hard | Solved by 46 out of 7831 contestants |
-|[Competitive Teams](http://bit.ly/2JgzHRt) | Data-Structure | Hard | Solved by 252 out of 5929 contestants |
-|Factors and Prime Factors | Number theory | Medium | |
-|Permuted Balanced Bracket Sequence Revisited| Data-Structure | Hard | |
-|At most two swaps | Data-Structure | Medium | |
+| Problem |  Category | Difficulty |
+|---|---|---|
+|[Magic value](http://bit.ly/2FdhqcE) | Data-Structure | Hard |
+|[Competitive Teams](http://bit.ly/2JgzHRt) | Data-Structure | Hard |
+|Factors and Prime Factors | Number theory | Medium |
+|Permuted Balanced Bracket Sequence Revisited| Data-Structure | Hard |
+|At most two swaps | Data-Structure | Medium |
 
 
 
@@ -65,10 +65,33 @@ Hope this will help for someone looking for problem solving!
 |[Smallest Palindromic Substring](https://www.devskill.com/CodingProblems/ViewProblem/375) | String | Easy |
 |[Power Of 5](https://www.devskill.com/CodingProblems/ViewProblem/385) | Math | Easy |
 |[Sanvi and Magical String](https://www.devskill.com/CodingProblems/ViewProblem/410) | String | Easy |
+|[Black cat and Jumping Power](https://www.devskill.com/CodingProblems/ViewProblem/412) | Implementation | Easy |
+|[Sanvi and Brightest Bulb](https://www.devskill.com/CodingProblems/ViewProblem/419) | Math | Easy |
+|[Minimum Cost](https://www.devskill.com/CodingProblems/ViewProblem/420) | Math | Easy |
+|[Prime Magical Number](https://www.devskill.com/CodingProblems/ViewProblem/423) | Number Theory | Easy |
+|[Dwindle Words](https://www.devskill.com/CodingProblems/ViewProblem/424) | String | Easy |
+|[Minimum Contiguous Subarray](https://www.devskill.com/CodingProblems/ViewProblem/428) | Array | Easy |
+|[Hello Sophia](https://www.devskill.com/CodingProblems/ViewProblem/458) | Implementation | Easy |
+|[Sanvi and TreeMap](https://www.devskill.com/CodingProblems/ViewProblem/466) | Implementation | Easy |
+|[Only '1' Substrings !!](https://www.devskill.com/CodingProblems/ViewProblem/496) | String | Easy |
+|[Exactly Two Times](https://www.devskill.com/CodingProblems/ViewProblem/497) | Math | Easy |
+|[Vely Easy Problem](https://www.devskill.com/CodingProblems/ViewProblem/273) | String | Easy |
+|[Happy New Year](https://www.devskill.com/CodingProblems/ViewProblem/308) | Implementation | Easy |
+|[Interest Research On Training Courses](https://www.devskill.com/CodingProblems/ViewProblem/309) | Implementation | Easy |
+|[Walk Left and Right](https://www.devskill.com/CodingProblems/ViewProblem/310) | Data-structure | Easy |
+|[Print a number](https://www.devskill.com/CodingProblems/ViewProblem/320) | Number Theory | Easy |
+|[Change Case of Alphabet](https://www.devskill.com/CodingProblems/ViewProblem/321) | String | Easy |
+|[Sanvi and String Operations](https://www.devskill.com/CodingProblems/ViewProblem/322) | String | Easy |
+|[What life has taught you up now?](https://www.devskill.com/CodingProblems/ViewProblem/425) | Implementation | Easy |
+|[Very Happy New Year++](https://www.devskill.com/CodingProblems/ViewProblem/467) | Implementation | Easy |
+|[Submission Verdict](https://www.devskill.com/CodingProblems/ViewProblem/476) | Implementation | Easy |
+|[#ReformQuotaBD](https://www.devskill.com/CodingProblems/ViewProblem/528) | Implementation | Easy |
+|[Tweety String](https://www.devskill.com/CodingProblems/ViewProblem/535) | String | Easy |
+|[Score from Stackoverflow Medals](https://www.devskill.com/CodingProblems/ViewProblem/586) | Implementation | Easy |
 
 
 
-## SPOJ platform:
+## Sphere Online Programming Judge (SPOJ) platform:
 
 | Problem |  Category | Difficulty |
 |---|---|---|
@@ -79,12 +102,14 @@ Hope this will help for someone looking for problem solving!
 |[Alphabetic Rope](https://www.spoj.com/problems/AROPE/) | String | Easy |
 |[Alphabetic Rope 2](https://www.spoj.com/problems/AROPE2/) | String | Medium |
 |[Alphabetic Rope 3](https://www.spoj.com/problems/AROPE3/) | String | Medium |
+|[Binary Game Reloaded](https://www.spoj.com/problems/BG2/) | Greedy | Medium |
+|[Base Is Damn Easy](https://www.spoj.com/problems/BEASY/) | Math | Easy |
+
 
 
 
 
 ### TO DO:
-* To complete the list of all problems.
-* I am also planning to solve these problems again and add solutions in different language categories (also editorial, if possible) to this repo.
-##### If someone want to contribute, feel free to do this !!
+* To solve these problems again and add solutions in different language categories (also editorial, if possible) in this repo.
+##### If somebody wants to contribute, you are always highly welcome !!
 
