@@ -33,7 +33,7 @@ This contains a list links for different programming problems created by me in d
 ## Dev Skill platform:
 
 | Problem |  Category | Difficulty | 
-|---|---|---|---|
+|---|---|---|
 |[Escape from Grid-land](https://www.devskill.com/CodingProblems/ViewProblem/245) | Meet in the middle | Hard |
 |[Big Binary Game](https://www.devskill.com/CodingProblems/ViewProblem/283) | Data-structrure | Hard |
 |[Sanvi and chocolates-2](https://www.devskill.com/CodingProblems/ViewProblem/315) | Data-structure | Hard |
