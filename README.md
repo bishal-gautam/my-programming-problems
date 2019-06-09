@@ -21,7 +21,6 @@ This contains a list links for different programming problems created by me in d
 
 ## Hackerrank platform:
 
-
 | Problem |  Category | Difficulty | Comment |
 |---|---|---|---|
 |[Magic value](http://bit.ly/2FdhqcE) | Data-Structure | Hard | Solved by 46 out of 7831 contestants |
@@ -31,15 +30,32 @@ This contains a list links for different programming problems created by me in d
 |At most two swaps | Data-Structure | Medium | |
 
 
+## Dev Skill platform:
 
-
-
-
-
-
-
-
-
-
-
-
+| Problem |  Category | Difficulty | 
+|---|---|---|---|
+|[Escape from Grid-land](https://www.devskill.com/CodingProblems/ViewProblem/245) | Meet in the middle | Hard |
+|[Big Binary Game](https://www.devskill.com/CodingProblems/ViewProblem/283) | Data-structrure | Hard |
+|[Sanvi and chocolates-2](https://www.devskill.com/CodingProblems/ViewProblem/315) | Data-structure | Hard |
+|[Sanvi and String Flow](https://www.devskill.com/CodingProblems/ViewProblem/364) | Game Theory | Hard |
+|[Sanvi and Magical Numbers](https://www.devskill.com/CodingProblems/ViewProblem/392) | Data-structure | Hard |
+|[XorNey to Root](https://www.devskill.com/CodingProblems/ViewProblem/258) | Tree | Medium |
+|[Binary Game](https://www.devskill.com/CodingProblems/ViewProblem/282) | Game Theory | Medium |
+|[Sanvi and Card Game](https://www.devskill.com/CodingProblems/ViewProblem/305) | Dynamic Programming | Medium |
+|[Sanvi and chocolates](https://www.devskill.com/CodingProblems/ViewProblem/318) | Data-structure| Medium |
+|[Egg, Banana and Bread](https://www.devskill.com/CodingProblems/ViewProblem/332) | Greedy | Medium |
+|[Again Egg, Banana and Bread](https://www.devskill.com/CodingProblems/ViewProblem/338) | Dynamic Programming | Medium |
+|[Sanvi and Exam Marks](https://www.devskill.com/CodingProblems/ViewProblem/413) | Ad-hoc | Medium |
+|[Counting in Binary String](https://www.devskill.com/CodingProblems/ViewProblem/414) | Math | Medium |
+|[Can You Answer Me?](https://www.devskill.com/CodingProblems/ViewProblem/418) | Math | Medium |
+|[Divisible Pairs](https://www.devskill.com/CodingProblems/ViewProblem/421) | Math | Medium |
+|[Double Pairs](https://www.devskill.com/CodingProblems/ViewProblem/421) | Data-structure | Medium |
+|[Easy Game](https://www.devskill.com/CodingProblems/ViewProblem/426) | Game Theory | Medium |
+|[Rotation and Summation](https://www.devskill.com/CodingProblems/ViewProblem/427) | Data-structure | Medium |
+|[Name for new Baby](https://www.devskill.com/CodingProblems/ViewProblem/244) | Implementation | Easy |
+|[Gain Dev Shop Coin](https://www.devskill.com/CodingProblems/ViewProblem/313) | Implementation | Easy |
+|[String Frequency Query](https://www.devskill.com/CodingProblems/ViewProblem/329) | String | Easy |
+|[Bit Need](https://www.devskill.com/CodingProblems/ViewProblem/374) | Math | Easy |	
+|[Smallest Palindromic Substring](https://www.devskill.com/CodingProblems/ViewProblem/375) | String | Easy |
+|[Power Of 5](https://www.devskill.com/CodingProblems/ViewProblem/385) | Math | Easy |
+|[Sanvi and Magical String](https://www.devskill.com/CodingProblems/ViewProblem/410) | String | Easy |
